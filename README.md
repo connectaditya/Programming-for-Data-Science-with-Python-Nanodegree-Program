@@ -57,7 +57,6 @@ Click==7.0
 This project consisted in using Git and GitHub with a simulated workflow to refactor Project 2.
 download the files [here](https://docs.google.com/document/d/1DoNBEQJyGHi0qAWpMpQM9lU9_VKh8ubdOY2BmKdvZcc/edit).
 
-
 ### Project Submission
 
 The Project Submission consisted in the filling of a template with all the Git commands used to perform the requested tasks.
