@@ -1,8 +1,9 @@
 # Programming for Data Science with Python Nanodegree Program
 
-## Aditya kumar
+### Aditya Kumar
 
-This repository contains projects for Udacity Programming For Data Science.
+This repository contains projects I have done under Udacity [Programming for Data Science with Python Nanodegree](https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104).
+
 
 ## Project 1
 
