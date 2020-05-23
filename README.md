@@ -62,5 +62,6 @@ download the files [here](https://docs.google.com/document/d/1DoNBEQJyGHi0qAWpMp
 
 The Project Submission consisted in the filling of a template with all the Git commands used to perform the requested tasks.
 
+![Imgur](https://s3-us-west-2.amazonaws.com/udacity-printer/production/certificates/eddb8a4b-ff7f-4669-8379-b23dc824b5ba.svg)
 
 
